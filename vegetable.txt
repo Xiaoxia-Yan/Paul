@@ -3,4 +3,4 @@
 3.patato
 4.lettuce
 5.pepper
-
+6.garlic
