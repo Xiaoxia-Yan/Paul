@@ -4,4 +4,5 @@
 4.lettuce
 5.pepper
 6.mushroom
+7.garlic
 
