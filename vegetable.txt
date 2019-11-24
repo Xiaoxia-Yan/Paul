@@ -1,5 +1,5 @@
 1.carrot
 2.tomate
 3.patato
-4.garlic
-5.cat
+4.lettuce
+5.pepper
